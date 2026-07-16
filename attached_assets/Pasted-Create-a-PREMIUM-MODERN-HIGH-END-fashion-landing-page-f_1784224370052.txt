@@ -1,0 +1,472 @@
+Create a PREMIUM, MODERN, HIGH-END fashion landing page for a female tailoring brand called:
+
+PG Styles
+Tagline:
+"Your Style, Our Pride"
+
+IMPORTANT:
+This is ONLY a landing page.
+It is NOT an e-commerce website.
+There should be NO shopping cart, NO ordering system, NO checkout, and NO login.
+
+The project MUST use ONLY:
+
+- HTML
+- CSS
+- Vanilla JavaScript
+
+DO NOT use:
+- React
+- Vue
+- Angular
+- Bootstrap
+- Tailwind
+- jQuery
+- Node packages
+- npm
+- Any CDN libraries (except Google Fonts if necessary)
+
+The website must be completely independent of Replit's environment so that I can simply download the project and host it anywhere (Netlify, Vercel, GitHub Pages, cPanel, etc.).
+
+Generate only:
+
+index.html
+style.css
+script.js
+
+----------------------------------------
+DESIGN STYLE
+----------------------------------------
+
+The website should feel like a luxury female fashion brand.
+
+Think of something between:
+
+• Dior
+• Vera Wang
+• House of CB
+• Bridal Couture
+• Premium African Fashion
+
+The design should immediately attract women.
+
+Use soft animations, smooth transitions and premium spacing.
+
+Everything should feel elegant.
+
+----------------------------------------
+COLOR PALETTE
+----------------------------------------
+
+Use approximately:
+
+25% Light Purple (#CFA7FF)
+
+25% Dark Purple (#4B1D73)
+
+20% White
+
+20% Black
+
+10% Accent Colors
+
+Accent colors can include:
+
+Soft Pink
+Rose Pink
+Lavender
+Very light gold
+Soft gray
+
+DO NOT overuse the accent colors.
+
+----------------------------------------
+TOP HEADER
+----------------------------------------
+
+The very top of the page should contain a SHORT horizontal gradient bar.
+
+Gradient:
+
+Dark Purple
+↓
+
+Purple
+↓
+
+Light Purple
+↓
+
+White
+
+It should not be tall.
+
+Just elegant.
+
+----------------------------------------
+LOGO SECTION
+----------------------------------------
+
+Immediately below the gradient:
+
+Display the brand name beautifully.
+
+Design requirements:
+
+"PG"
+
+- Very large
+- Bold
+- Stylish
+- Premium
+- Purple
+- Modern typography
+
+"Styles"
+
+- Written underneath or beside PG
+- Beautiful cursive font
+- Feminine
+- Purple
+- Elegant
+
+Under the logo write:
+
+Your Style, Our Pride
+
+Smaller.
+
+Elegant.
+
+Centered.
+
+----------------------------------------
+NAVIGATION
+----------------------------------------
+
+Sticky Navigation.
+
+Transparent initially.
+
+Turns white while scrolling.
+
+Navigation items:
+
+Home
+
+Collections
+
+About
+
+Gallery
+
+Contact
+
+Smooth scrolling.
+
+----------------------------------------
+HERO SECTION
+----------------------------------------
+
+Large premium hero section.
+
+Left:
+
+Large heading such as:
+
+Elegance Tailored Just For You
+
+or
+
+Where Style Meets Perfection
+
+Beautiful paragraph introducing PG Styles.
+
+Button:
+
+View Collection
+
+Second Button:
+
+Contact Us
+
+Right side:
+
+Large placeholder image of a beautiful African female model wearing luxury tailored clothing.
+
+Use elegant placeholder images from Unsplash or Pexels.
+
+----------------------------------------
+FASHION COLLECTION SECTION
+----------------------------------------
+
+Create beautiful cards for:
+
+Wedding Gowns
+
+Luxury Bubu Gowns
+
+Office Gowns
+
+Corporate Skirts
+
+Dinner Dresses
+
+Traditional Female Wears
+
+Each card should include:
+
+Large image
+
+Title
+
+Short description
+
+Hover animation
+
+Rounded corners
+
+Shadow
+
+----------------------------------------
+WHY CHOOSE US
+----------------------------------------
+
+Beautiful icons.
+
+Include:
+
+Premium Craftsmanship
+
+Perfect Fit
+
+Elegant Designs
+
+Affordable Luxury
+
+Attention to Detail
+
+Customer Satisfaction
+
+----------------------------------------
+GALLERY
+----------------------------------------
+
+Create a masonry-style gallery.
+
+Use placeholder images of:
+
+Wedding gowns
+
+Bridal dresses
+
+Luxury gowns
+
+Office wear
+
+Corporate female outfits
+
+Elegant bubu gowns
+
+Traditional female attire
+
+The gallery should have:
+
+Hover zoom
+
+Rounded corners
+
+Fade animation
+
+----------------------------------------
+CUSTOMER TESTIMONIALS
+----------------------------------------
+
+Beautiful testimonial cards.
+
+Include three fictional testimonials.
+
+Elegant profile circles.
+
+5-star ratings.
+
+----------------------------------------
+CALL TO ACTION
+----------------------------------------
+
+Large purple section.
+
+Headline:
+
+Ready To Elevate Your Style?
+
+Button:
+
+Contact PG Styles
+
+----------------------------------------
+CONTACT SECTION
+----------------------------------------
+
+Include beautiful cards for:
+
+Instagram
+
+TikTok
+
+Email
+
+Phone
+
+Use modern icons.
+
+Information:
+
+Instagram
+
+@peegee_styles
+
+https://www.instagram.com/peegee_styles?igsh=MTF4dmd4Nzg5cGZkdg==
+
+TikTok
+
+@pg.styles
+
+https://vm.tiktok.com/ZS9MKu1m18NRD-YSUZl/
+
+Email
+
+PeegeeStyles@gmail.com
+
+Phone
+
+08067049664
+
+All social links should open in a new tab.
+
+----------------------------------------
+FOOTER
+----------------------------------------
+
+Elegant footer.
+
+Include:
+
+PG Styles
+
+Your Style, Our Pride
+
+Quick Links
+
+Instagram
+
+TikTok
+
+Email
+
+Phone
+
+Copyright
+
+----------------------------------------
+ANIMATIONS
+----------------------------------------
+
+Use only CSS and JavaScript.
+
+Include:
+
+Fade-in on scroll
+
+Cards slide upward
+
+Smooth hover animations
+
+Buttons with ripple/glow effect
+
+Floating hero image
+
+Gallery zoom
+
+Smooth scrolling
+
+Animated counters
+
+Elegant section transitions
+
+----------------------------------------
+RESPONSIVENESS
+----------------------------------------
+
+Must work perfectly on:
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+Hamburger menu for mobile.
+
+----------------------------------------
+TYPOGRAPHY
+----------------------------------------
+
+Use elegant Google Fonts.
+
+Suggestions:
+
+Playfair Display
+
+Poppins
+
+Cormorant Garamond
+
+Great Vibes
+
+Cinzel
+
+Use Great Vibes ONLY for "Styles".
+
+Everything else should use modern fonts.
+
+----------------------------------------
+VISUAL STYLE
+----------------------------------------
+
+Lots of white space.
+
+Rounded corners.
+
+Glassmorphism where appropriate.
+
+Soft shadows.
+
+Elegant gradients.
+
+Premium buttons.
+
+Luxury aesthetic.
+
+No clutter.
+
+----------------------------------------
+EXTRA DETAILS
+----------------------------------------
+
+Throughout the page, occasionally display the brand identity:
+
+PG Styles
+Your Style, Our Pride
+
+Include tasteful decorative fashion elements like subtle sewing-themed line art, stitch-inspired dividers, fabric-like wave separators, or mannequin silhouettes to reinforce the tailoring theme without making the page feel busy.
+
+The page should feel like a premium fashion boutique rather than a generic template.
+
+Ensure every section has polished spacing, consistent alignment, and elegant micro-interactions.
+
+The final result should look professional enough that a visitor immediately trusts the brand and wants to contact PG Styles after seeing the designs.
+
+The project must be fully self-contained, using only HTML, CSS, and JavaScript, and must run by simply opening index.html in any modern browser without requiring Replit or any build tools.
