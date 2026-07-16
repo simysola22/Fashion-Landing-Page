@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "PG Styles"
+version = "1.0.0"
+id = "artifacts/pg-styles-web"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 20583
+
+[services.development]
+run = "pnpm --filter @workspace/pg-styles-web run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/pg-styles-web", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/pg-styles-web/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20583"
+BASE_PATH = "/"
