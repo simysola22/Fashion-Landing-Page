@@ -630,6 +630,25 @@ section { padding: 80px 6%; }
 }
 .collection-card:hover .card-line { width: 60px; }
 
+/* Text-only service cards keep the offer list distinct from the work gallery */
+.collection-card .card-body {
+  min-height: 218px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px 28px;
+  background: linear-gradient(145deg, rgba(30,20,43,0.95), rgba(13,11,20,0.72));
+}
+.collection-card .card-tag {
+  position: static;
+  display: inline-flex;
+  align-self: flex-start;
+  margin: 0 0 20px;
+}
+.collection-card .card-title { font-size: 1.28rem; }
+.collection-card .card-desc { max-width: 30ch; }
+
 /* =========================================
    WHY CHOOSE US
    ========================================= */
