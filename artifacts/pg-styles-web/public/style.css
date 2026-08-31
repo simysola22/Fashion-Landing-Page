@@ -943,6 +943,10 @@ section { padding: 80px 6%; }
   box-shadow: 0 0 12px rgba(155,94,200,0.4);
 }
 
+.blank-profile {
+  background: rgba(255,255,255,0.08);
+}
+
 .author-name { font-size: 0.85rem; font-weight: 600; color: var(--white); }
 .author-title { font-size: 0.7rem; color: var(--dimmer); margin-top: 2px; }
 

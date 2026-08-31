@@ -987,6 +987,10 @@ section { padding: 90px 6%; }
   border: 3px solid var(--light-purple);
 }
 
+.blank-profile {
+  background: rgba(255,255,255,0.08);
+}
+
 .author-name {
   font-family: var(--font-sans);
   font-size: 0.9rem;
